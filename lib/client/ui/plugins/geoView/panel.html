@@ -15,7 +15,7 @@
 -->
 <section id="gps-container" class="ui-box ui-state-default ui-corner-all">
     <section class="h2 info-header">
-        <section class="collapse-handle">Geo Location</section>
+        <section class="collapse-handle">지오 로케이션</section>
         <section class="drag-handle ui-state-default ui-corner-all ui-state-hover">
             <span class="ui-icon ui-icon-arrow-4"></span>
         </section>
@@ -24,7 +24,7 @@
     <section class="info ui-widget-content ui-corner-all" style="display: none;">
         <p></p>
 
-        <table class="panel-table">
+        <table class="panel-table" style="display:none;">
             <tr>
                 <td><label id="label-geo-latitude" class="ui-text-label" for="geo-latitude">Latitude</label></td>
                 <td><input id="geo-latitude" class="ui-state-default ui-corner-all" type="number" value=""></td>
@@ -120,6 +120,9 @@
             </button>
             <button id="geo-map-zoom-increase" class="geo-map-zoom-btn ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only">
                 <span class="ui-button-text">+</span>
+            </button>
+            <button id="geo-map-current-location" class="geo-map-zoom-btn ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only">
+                <span class="ui-button-text">현재위치</span>
             </button>
 
             <section class="h3 geo-map-zoomlevel">
