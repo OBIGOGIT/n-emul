@@ -35,7 +35,7 @@ input, textarea, keygen, select, button, isindex, datagrid {
 }
 
 .logo {
-    background-size: 40%;
+    background-size: 35%;
     background-repeat: no-repeat;
     position: absolute;
     left: 395px;
@@ -218,6 +218,7 @@ section.left { left: 0; }
     position: relative;
     padding: 0 2px 0 2px;
     border: none !important;
+    box-shadow: 0 0 8px 1px #04ffcd;
 }
 
 
@@ -578,7 +579,7 @@ section.left { left: 0; }
 #geo-map-arrow {
     width: 32px;
     height: 32px;
-    background: url(images/compass.png);
+    background: url(images/comp.png);
     float: left;
     margin-top: 5px;
 }
@@ -607,9 +608,10 @@ section.left { left: 0; }
     position: absolute;
     top: 158px;
     left: 143px;
-    background: url(images/arrow.png);
-    width: 22px;
-    height: 30px;
+    background: url(images/redarrow.png);
+    background-size: 100%;
+    width: 28px;
+    height: 28px;
     z-index: 800;
 }
 
