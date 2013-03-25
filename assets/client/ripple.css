@@ -708,7 +708,7 @@ section.left { left: 0; }
     left: 0;
     height: 100%;
     z-index: 1200;
-    background: #FFFFFF url("images/load2.gif") center no-repeat;
+    background: #FFFFFF url("images/loading.png") center no-repeat;
 }
 
 /* ------------------------------>
