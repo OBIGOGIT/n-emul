@@ -217,8 +217,7 @@ section.left { left: 0; }
     z-index: 50;
     position: relative;
     padding: 0 2px 0 2px;
-    border: none !important;
-    box-shadow: 0 0 8px 1px #04ffcd;
+    border: none !important;    
 }
 
 
