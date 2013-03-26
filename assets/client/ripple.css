@@ -578,7 +578,7 @@ section.left { left: 0; }
 #geo-map-arrow {
     width: 32px;
     height: 32px;
-    background: url(images/comp.png);
+    background: url(obi_images/comp.png);
     float: left;
     margin-top: 5px;
 }
@@ -607,7 +607,7 @@ section.left { left: 0; }
     position: absolute;
     top: 158px;
     left: 143px;
-    background: url(images/redarrow.png);
+    background: url(obi_images/redarrow.png);
     background-size: 100%;
     width: 28px;
     height: 28px;
@@ -708,7 +708,7 @@ section.left { left: 0; }
     left: 0;
     height: 100%;
     z-index: 1200;
-    background: #FFFFFF url("images/load2.gif") center no-repeat;
+    background: #FFFFFF url("obi_images/loading.png") center no-repeat;
 }
 
 /* ------------------------------>
