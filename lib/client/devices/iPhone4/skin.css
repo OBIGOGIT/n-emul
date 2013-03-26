@@ -1,0 +1,70 @@
+/*
+ *  Copyright 2013 Obigo.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+/* ------------------------------>
+    iphone-4s (726x1258) offset (41x196)*/
+
+.viewport-wrapper-iphone-4 {
+    width: 320px;
+    height: 480px;
+    border: none;
+}
+
+.menu-button-wrapper-iphone-4{
+    position: relative;
+    display: inline-block;
+    margin: 30px 0 0 145px;
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+}
+
+.back-button-wrapper-iphone-4 {
+    position: relative;
+    display: inline-block;
+    margin: 0 0 0 170px;
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+}
+
+.device-wrapper-iphone-4 {
+    position: relative;
+    padding: 130px 0 0 34px;
+    width: 387px;
+    height: 740px;
+    margin: 0 auto;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: url('images/iphone-4.png') no-repeat;
+}
+
+.viewport-wrapper-landscape-iphone-4 {
+    width: 480px;
+    height: 320px;
+    border: none;
+}
+.device-wrapper-landscape-iphone-4 {
+    position: relative;
+    padding: 34px 0 0 130px;
+    width: 740px;
+    height: 387px;
+    margin: 0 auto;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: url('images/iphone-4_landscape.png') no-repeat;
+}
