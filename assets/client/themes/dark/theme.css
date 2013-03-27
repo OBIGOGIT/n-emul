@@ -82,7 +82,7 @@ body { background: #222222;}
 
 /* states and images */
 .ui-icon { width: 16px; height: 16px; }
-.ui-state-default .ui-drag-arrow, .ui-state-hover .ui-drag-arrow {background-image: url(obi_images/drag_arrow.png); background-size: 90%; }
+.ui-state-default .ui-icon-arrow-4, .ui-state-hover .ui-icon-arrow-4 {background-image: url(obi_images/drag_arrow.png); background-size: 90%; }
 
 #layout-portrait, #layout-landscape {
     background: url(obi_images/dev.png) center no-repeat;
