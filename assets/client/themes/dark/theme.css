@@ -82,14 +82,14 @@ body { background: #222222;}
 
 /* states and images */
 .ui-icon { width: 16px; height: 16px; }
-.ui-state-default .ui-drag-arrow, .ui-state-hover .ui-drag-arrow {background-image: url(images/drag_arrow.png); background-size: 90%; }
+.ui-state-default .ui-icon-arrow-4, .ui-state-hover .ui-icon-arrow-4 {background-image: url(obi_images/drag_arrow.png); background-size: 90%; }
 
 #layout-portrait, #layout-landscape {
-    background: url(images/dev.png) center no-repeat;
+    background: url(obi_images/dev.png) center no-repeat;
 }
-
-.ui-icon-arrowthick-1-e { background-image: url(images/arrow_right.png); background-size: 80%; margin-left: 10%; margin-top: 15%; }
-.ui-icon-arrowthick-1-w { background-image: url(images/arrow_left.png); background-size: 80%; margin-left: 10%; margin-top: 15%; }
+:12;
+.ui-icon-arrowthick-1-e { background-image: url(obi_images/arrow_right.png); background-size: 80%; margin-left: 10%; margin-top: 15%; }
+.ui-icon-arrowthick-1-w { background-image: url(obi_images/arrow_left.png); background-size: 80%; margin-left: 10%; margin-top: 15%; }
 
 
 /* Misc visuals
@@ -352,11 +352,11 @@ input.ui-button { padding: .4em 1em; }
 }
 
 .logo {
-    background-image: url("../../images/128_128.png");
+    background-image: url("../../obi_images/128_128.png");
 }
 
 .about-logo {
-    background-image: url("../../images/128_128.png");
+    background-image: url("../../obi_images/128_128.png");
 }
 
 .panel-table td {
