@@ -352,11 +352,11 @@ input.ui-button { padding: .4em 1em; }
 }
 
 .logo {
-    background-image: url("../../obi_images/128_128.png");
+    /*background-image: url("../../obi_images/128_128.png");*/
 }
 
 .about-logo {
-    background-image: url("../../obi_images/128_128.png");
+    /*background-image: url("../../obi_images/128_128.png");*/
 }
 
 .panel-table td {
