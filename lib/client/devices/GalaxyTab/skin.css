@@ -24,9 +24,9 @@
 
 .device-wrapper-GalaxyTab {
     position: relative;
-    padding: 114px 0 0 100px;
-    width: 793px;
-    height: 1241px;    
+    padding: 115px 0 0 123px;
+    width: 1014px;
+    height: 1246px;    
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
@@ -41,9 +41,9 @@
 }
 .device-wrapper-landscape-GalaxyTab {
     position: relative;
-    padding: 100px 0 0 114px;
-    width: 1241px;
-    height: 793px;
+    padding: 123px 0 0 105px;
+    width: 1246px;
+    height: 1014px;
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
