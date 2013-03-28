@@ -24,9 +24,9 @@
 
 .device-wrapper-GalaxyNote2 {
     position: relative;
-    padding: 50px 0 0 20px;
-    width: 292px;
-    height: 546px;
+    padding: 70px 0 0 28px;
+    width: 410px;
+    height: 780px;
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
@@ -41,9 +41,9 @@
 }
 .device-wrapper-landscape-GalaxyNote2 {
     position: relative;
-    padding: 20px 0 0 50px;
-    width: 546px;
-    height: 292px;
+    padding: 28px 0 0 70px;
+    width: 780px;
+    height: 410px;
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;

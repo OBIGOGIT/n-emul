@@ -24,9 +24,9 @@
 
 .device-wrapper-GalaxyNote10 {
     position: relative;
-    padding: 43px 0 0 38px;
-    width: 353px;
-    height: 515px;
+    padding: 64px 0 0 64px;
+    width: 518px;
+    height: 760px;
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
@@ -41,9 +41,9 @@
 }
 .device-wrapper-landscape-GalaxyNote10 {
     position: relative;
-    padding: 38px 0 0 43px;    
-    width: 515px;
-    height: 353px;   
+    padding: 64px 0 0 64px;    
+    width: 760px;
+    height: 518px;   
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
