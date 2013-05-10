@@ -17,15 +17,15 @@
     Obigo-TV */
 
 .viewport-wrapper-landscape-Obigo-TV {
-    width: 640px;
-    height: 400px;
+    width: 1280px;
+    height: 800px;
     border: none;
 }
 .device-wrapper-landscape-Obigo-TV {
     position: relative;
-    padding: 10px 0 0 9px;
-    width: 656px;
-    height: 478px;
+    padding: 20px 0 0 18px;
+    width: 1310px;
+    height: 956px;
     margin: 0 auto;
     border: none;
     -webkit-box-shadow: none;
